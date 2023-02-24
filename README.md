@@ -8,7 +8,8 @@ Python 3.x
 OpenCV
 NumPy
 Pandas
-Installation
+
+#Installation
 
 1-Clone the repository:
 git clone https://github.com/yourusername/attendance-system.git
