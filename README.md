@@ -28,10 +28,13 @@ The system captures an image of the student's face using the webcam.
 The image is processed using OpenCV to extract the facial features.
 The facial features are compared to a database of known faces to identify the student.
 If the student is identified, their attendance is recorded in  databes attendnace table.
+
 Contributing
+
 Contributions are welcome! If you find a bug or have an idea for a new feature, please create an issue or submit a pull request.
 
 #License
+
 This project is licensed under the MIT License. See the LICENSE file for more information.
 
 #Acknowledgments
