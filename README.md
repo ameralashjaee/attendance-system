@@ -21,6 +21,7 @@ pip install opencv-python numpy pandas
 python tkin.py
 
 #Usage
+
 The attendance system is designed to work in the following way:
 
 The system captures an image of the student's face using the webcam.
